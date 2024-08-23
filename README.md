@@ -35,5 +35,6 @@ The dataset used in this project includes the following features:
 ## Project Structure
 
 - **`frauddetection.ipynb`**: Jupyter notebook containing all the code for data exploration, preprocessing, model building, and evaluation.
-- **`CreditCardDataset.csv`**: Dataset used in this project (not included in the repository).
+- **`CreditCardDataset.csv`**: Dataset used in this project
 - **`README.md`**: Overview of the project (this file).
+- **`app.py`**: It has code for user-interface
